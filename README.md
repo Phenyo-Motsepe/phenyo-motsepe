@@ -20,8 +20,8 @@ Python | C++ | Boto3 | AWS (S3, IAM basics) | Git | Audit readiness | QA/QC | Ex
 
 ## Certifications
 
-- AWS Certified Cloud Practitioner
-- CompTIA Security+
+- AWS Certified Cloud Practitioner (In-progress)
+- CompTIA Security+ (In-progress)
 
 ## Connect
 

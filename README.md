@@ -9,6 +9,7 @@ Studying BSc Computing at UNISA.
 
 | Project | What it does | Status |
 |---|---|---|
+| Secure e-commerce webapp | Securing all client data traffic, includes client authentication and secure checkout | In-progress |
 | AWS S3 Compliance Auditor | Read-only Boto3 scan of S3 buckets against a security baseline | Planned |
 | CloudTrail Brute-Force Detector | Flags suspicious console login patterns in CloudTrail logs | Planned |
 | File Integrity Monitor | SHA-256 baseline and change reporting for a directory | Planned |
